@@ -4,7 +4,7 @@ A classic, browser-based Tic-Tac-Toe game built with plain HTML, CSS, and JavaSc
 
 ## ✨ Demo / Screenshot
 
-![Tic-Tac-Toe Game Screenshot](tictactoepic.png)
+![Tic-Tac-Toe Game Screenshot](./screenshot.png)
 
 
 ## 🚀 Features
